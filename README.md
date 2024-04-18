@@ -8,8 +8,11 @@ For example:
 ## Test Values
 
 https://www.bing.com
+
 https://www.google.com
+
 https://www.bing.com/search?q="America Short hair cats"
+
 https://www.google.com/search?q="Puss in Boots"
 
 These URLs allow you navigate to the websites you desire.
