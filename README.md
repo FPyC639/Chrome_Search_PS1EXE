@@ -19,6 +19,13 @@ These URLs allow you navigate to the websites you desire.
 
 Additional desire would be to create a search CLI inteface that allows one to input the query into a search engine of choice allowing users to choose the website of choice.
 
+# Update 20240521
+
+New GUI layout.
+![GUI Application Screenshot](GUI_Application_Screenshot.png)
+
+Feature update now can search on Edge, and search Bing on edge.
+
 ## Acknowledgements
 
  - Professors at Kean University
