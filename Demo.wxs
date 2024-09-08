@@ -3,9 +3,8 @@
 <?define path = "C:\Users\joses\source\repos\Chrome_Search_PS1EXE\"?>
 <?define version = "1.0.0"?>
 <?define publisher = "Jose M Serra Jr"?>
-<?define guid = ""?>
 <?define silentArgs = ""?>
-<?define guid = "63d4f55a-7069-429b-9ba5-497994f16b01"?>
+<?define guid = "a02701c5-279a-425d-b4a1-c8f287492bdd"?>
 
 <Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
         <Package Name="$(var.name)" Manufacturer="$(var.publisher)" Version="$(var.version)"
