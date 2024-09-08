@@ -1,9 +1,11 @@
 <?define name = "Chrome Search App Installer"?>
-<?define exe = "ChromeAppInstallation.exe"?>
-<?define path = "C:\Users\joses"?>
+<?define exe = "SearchApp.exe"?>
+<?define path = "C:\Users\joses\source\repos\Chrome_Search_PS1EXE\"?>
 <?define version = "1.0.0"?>
 <?define publisher = "Jose M Serra Jr"?>
-<?define guid = "d5a5fd56-5d2e-4b65-89e8-0cd91ab36317"?>
+<?define guid = ""?>
+<?define silentArgs = ""?>
+<?define guid = "63d4f55a-7069-429b-9ba5-497994f16b01"?>
 
 <Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
         <Package Name="$(var.name)" Manufacturer="$(var.publisher)" Version="$(var.version)"
